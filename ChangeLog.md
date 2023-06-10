@@ -6,7 +6,7 @@
 
     Release date: 
 
-    - 
+    - Relax the required jstree version number
 
 ### 1.0.3
 

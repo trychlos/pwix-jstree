@@ -10,7 +10,7 @@ if( false ){
 }
 
 checkNpmVersions({
-    'jstree': '^3.3.15'
+    'jstree': '^3.3.0'
 },
     'pwix:jstree'
 );

@@ -45,7 +45,7 @@ Instead we check npm versions of installed packages at runtime, on server startu
 
 Dependencies as of v 1.0.0:
 ```
-    'jstree': '^3.3.15'
+    'jstree': '^3.3.0'
 ```
 Each of these dependencies MUST be installed at application level:
 ```
