@@ -6,6 +6,7 @@ import { checkNpmVersions } from 'meteor/tmeasday:check-npm-versions';
 
 if( false ){
     // white listing packages
+    require( 'jstree/package.json' );
 }
 
 checkNpmVersions({

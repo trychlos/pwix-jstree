@@ -6,7 +6,7 @@
 
     Release date: xxx
 
-    - 
+    - Fix jstree npm check by requiring json package file
 
 ### 1.0.1
 
