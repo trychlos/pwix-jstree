@@ -7,6 +7,7 @@
     Release date: 
 
     - Relax the required jstree version number
+    - Remove useless less dependency
 
 ### 1.0.3
 
