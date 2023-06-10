@@ -2,9 +2,9 @@
 
 ## ChangeLog
 
-### 1.0.3-rc
+### 1.0.3
 
-    Release date: 
+    Release date: 2023- 6-10
 
     - Add webapp Meteor requirement on server side
 
