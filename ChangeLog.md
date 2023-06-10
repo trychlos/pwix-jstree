@@ -6,7 +6,7 @@
 
     Release date: 
 
-    - 
+    - Add webapp Meteor requirement on server side
 
 ### 1.0.2
 

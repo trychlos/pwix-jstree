@@ -32,6 +32,7 @@ function configure( api ){
     api.use( 'ecmascript' );
     api.use( 'less@4.0.0', 'client' );
     api.use( 'tmeasday:check-npm-versions@1.0.2', 'server' );
+    api.use( 'webapp', 'server' );
 }
 
 // NPM dependencies are checked in /src/server/js/check_npms.js
