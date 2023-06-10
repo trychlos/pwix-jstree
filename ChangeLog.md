@@ -2,9 +2,9 @@
 
 ## ChangeLog
 
-### 1.0.2-rc
+### 1.0.2
 
-    Release date: xxx
+    Release date: 2023- 6-10
 
     - Fix jstree npm check by requiring json package file
 
