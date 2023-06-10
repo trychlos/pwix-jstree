@@ -1,6 +1,6 @@
 Package.describe({
     name: 'pwix:jstree',
-    version: '1.0.0',
+    version: '1.0.1',
     summary: 'A jstree Meteor package (workaround #12524)',
     git: 'https://github.com/trychlos/pwix-jquery-ui',
     documentation: 'README.md'
@@ -14,7 +14,7 @@ Package.onUse( function( api ){
     api.mainModule( 'src/server/js/index.js', 'server' );
     api.addFiles( 'resources/css/jstree-style.css', 'client' );
     api.addAssets([
-        'resources/png/ui-32px.png',
+        'resources/png/32px.png',
         'resources/png/40px.png',
         'resources/png/throbber.gif'
     ], 'client' );
