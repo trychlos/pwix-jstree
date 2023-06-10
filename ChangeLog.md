@@ -2,9 +2,9 @@
 
 ## ChangeLog
 
-### 1.0.4-rc
+### 1.0.4
 
-    Release date: 
+    Release date: 2023- 6-10
 
     - Relax the required jstree version number
     - Remove useless less dependency
