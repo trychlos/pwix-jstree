@@ -1,6 +1,6 @@
 Package.describe({
     name: 'pwix:jstree',
-    version: '1.0.5-rc',
+    version: '1.0.5',
     summary: 'A jstree Meteor package (workaround #12524)',
     git: 'https://github.com/trychlos/pwix-jquery-ui',
     documentation: 'README.md'

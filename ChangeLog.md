@@ -2,9 +2,9 @@
 
 ## ChangeLog
 
-### 1.0.5-rc
+### 1.0.5
 
-    Release date: 
+    Release date: 2023- 6-12
 
     - Fix redirection computation
 
@@ -41,4 +41,4 @@
 
 ---
 P. Wieser
-- Last updated on 2023, June 10th
+- Last updated on 2023, June 12th
