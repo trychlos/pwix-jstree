@@ -7,11 +7,13 @@
  */
 
 // returns true if the url has been redirected (so it is no worth to try others redirecters)
-const _redirect = function( url, res, stringIdentifier ){
-    const indexOf = url.indexOf( stringIdentifier );
+const _redirect = function( url, res ){
+    const searchedPath = '/jstree/';
+    const replacedPath = '/packages/pwix_jstree/resources/png/';
+    const indexOf = url.indexOf( searchedPath );
     if( indexOf > 0 ){
-        const newurl = url.substring( indexOf );
-        //console.debug( 'redirect', url, 'to', newurl );
+        const newurl = replacedPath + url.substring( indexOf+searchedPath.length+1 );
+        console.debug( 'redirect', url, 'to', newurl );
         res.writeHead( 301, {
             Location: newurl
         });
@@ -22,7 +24,7 @@ const _redirect = function( url, res, stringIdentifier ){
 }
 
 WebApp.connectHandlers.use( function( req, res, next ){
-    if( !_redirect( req.url, res, '/packages/pwix_jstree/resources/png/' )){
+    if( !_redirect( req.url, res )){
         next();
     }
 });

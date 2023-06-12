@@ -6,7 +6,7 @@
 
     Release date: 
 
-    - 
+    - Fix redirection computation
 
 ### 1.0.4
 
