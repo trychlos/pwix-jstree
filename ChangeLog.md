@@ -2,6 +2,12 @@
 
 ## ChangeLog
 
+### 1.0.6-rc
+
+    Release date: 
+
+    - 
+
 ### 1.0.5
 
     Release date: 2023- 6-12
