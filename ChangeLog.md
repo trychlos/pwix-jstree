@@ -6,7 +6,7 @@
 
     Release date: 
 
-    - 
+    - Fix the github address
 
 ### 1.0.6
 
