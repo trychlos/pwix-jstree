@@ -4,9 +4,10 @@
 
 ### 1.0.7-rc
 
-    Release date: 
+    Release date:
 
     - Fix the github address
+    - Update README
 
 ### 1.0.6
 
