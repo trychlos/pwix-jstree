@@ -3,3 +3,5 @@
  */
 
 import '../../common/js/index.js';
+
+import 'jstree/dist/jstree.min.js';

@@ -20,10 +20,12 @@ This Meteor package is installable with the usual command:
 
 ## Usage
 
-From the application (resp. package) point of view, it has just have to include the jsTree javascript, says:
+From the application (resp. package) point of view, you have just to call jQuery plugin as usual
 
 ```js
-    import 'jstree/dist/jstree.min.js';
+    $( '.js-tree' ).jstree({
+        ...
+    });
 ```
 and enjoy!
 

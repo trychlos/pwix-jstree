@@ -2,11 +2,11 @@
 
 ## ChangeLog
 
-### 1.0.8-rc
+### 1.1.0-rc
 
     Release date:
 
-    -
+    - Import jsTree javascript from the package, making useless for the caller a new import, bumping the minor candidate version number
 
 ### 1.0.7
 
