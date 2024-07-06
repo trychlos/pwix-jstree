@@ -2,9 +2,9 @@
 
 ## ChangeLog
 
-### 1.1.0-rc
+### 1.1.0
 
-    Release date:
+    Release date: 2024- 7- 6
 
     - Import jsTree javascript from the package, making useless for the caller a new import, bumping the minor candidate version number
 
@@ -60,4 +60,4 @@
 
 ---
 P. Wieser
-- Last updated on 2024, Jun. 13th
+- Last updated on 2024, Jul. 6th
